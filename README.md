@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Douglas Guimarães
 
-You can use the [editor on GitHub](https://github.com/DouglasGuimaraes/DouglasGuimaraes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Linkedin Badge](https://img.shields.io/badge/-douglasmguimaraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasmguimaraes/)](https://www.linkedin.com/in/douglasmguimaraes/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+Hi there! &nbsp; :metal:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm Douglas Guimarães, a Senior Systems Analyst focused in .Net Techologies who is passionate about solving problems.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+:computer: &nbsp; Currently I'm working with Xamarin Forms in a Mobile App.
 
-- Bulleted
-- List
+:books: &nbsp; I'm learning about DevOps, NodeJS and ReactJS
 
-1. Numbered
-2. List
+:book: &nbsp; Technologies: .Net Full, .Net Core, Xamarin Forms and SQL Server.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DouglasGuimaraes/DouglasGuimaraes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**"Keep your spirit strong."**
