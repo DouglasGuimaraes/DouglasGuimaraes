@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-douglasmguimaraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasmguimaraes/)](https://www.linkedin.com/in/douglasmguimaraes/)
 
+[![Gmail Badge](https://img.shields.io/badge/-douglasmendesguimaraes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasmendesguimaraes@gmail.com)](mailto:douglasmendesguimaraes@gmail.com)
+
 ---
 
 Hi there! &nbsp; :metal:
