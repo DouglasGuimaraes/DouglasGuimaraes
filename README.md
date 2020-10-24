@@ -12,7 +12,7 @@ I'm Douglas Guimarães, a Senior Systems Analyst focused in .Net Techologies who
 
 :computer: &nbsp; Currently I'm working with Xamarin Forms in a Mobile App.
 
-:books: &nbsp; I'm learning about DevOps, NodeJS and ReactJS
+:books: &nbsp; I'm learning about DevOps, Docker and Kubernetes.
 
 :book: &nbsp; Technologies: .Net Full, .Net Core, Xamarin Forms and SQL Server.
 
